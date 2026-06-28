@@ -54,6 +54,10 @@ Instructor o capacitador en software y sistemas
 <!--Intro end-->
   </p>
   <br>
+<h2>Proyectos👨🏻‍💻</h2>
+<p align="left">
+  <a href="[https://www.java.com/es/](https://test-programador.infinityfreeapp.com/)" target="_blank">
+  </a>
 
 <h2>Tecnologías conocidas👨🏻‍💻</h2>
 <p align="left">
